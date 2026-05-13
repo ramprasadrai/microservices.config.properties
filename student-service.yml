@@ -1,6 +1,6 @@
 spring:
   application:
-    name: school-service
+    name: student-service
 
   datasource:
     url: jdbc:mysql://localhost:3306/student-service?createDatabaseIfNotExist=true
